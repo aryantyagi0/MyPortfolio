@@ -318,6 +318,12 @@ body{
  .car8{
     background-image: url('./img/java.jpg');
  }
+ .car9{
+    background-image: url('./img/sql.jpg');
+ }
+ .car10{
+    background-image: url('./img/mongo.png');
+ }
  .my-projects{
     font-size: 70px;
     text-align: center;
@@ -350,11 +356,14 @@ body{
     border: 3px solid black; 
     border-radius: 10px;
  } 
- .car9{
+ .car11{
     background-image: url('./img/weather.png');
  }
- .car10{
+ .car12{
     background-image: url('./img/blog.png');
+ }
+ .car13{
+    background-image: url('./img/newsappimg.png');
  }
  .footer{
     display:flex;
